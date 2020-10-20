@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 A Javascript implementation of tic tac toe with playable AI
 
 This project taught me how to use jQuery.
